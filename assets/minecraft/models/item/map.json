@@ -1,0 +1,1 @@
+{"parent":"item/handheld","textures":{"layer0":"item/map"},"overrides":[{"predicate":{"custom_model_data":1},"model":"item/fort/map"}]}
